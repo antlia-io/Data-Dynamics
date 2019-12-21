@@ -1,9 +1,9 @@
 # Data-Dynamics
 Data Dynamics
 
-#Plan
+# Plan
 
-#Data Fetching Module
+# Data Fetching Module
 Data Fetching:
 - For new value of coins we will use googlesheet having add on of cryptofinance.
 - For Market/Trading Data Analysis we will use https://coinmarketcap.com/ (having trade
@@ -21,7 +21,7 @@ the meta-data of trading information obtained by above websites.
 program, we will thoroughly analyze above websites and then provide different types of
 filters to the user of our program.
 
-#Predition Module
+# Prediction Module
 Forecasting Transactions:
 - For forecasting transaction, we will scrap data from sources given above. Then apply Machine
 Learning to create model. To measure its accuracy we will use data of https://coinmetrics.io/
