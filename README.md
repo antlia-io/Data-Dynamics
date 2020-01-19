@@ -34,4 +34,6 @@ we downloaded data from coinmarketapi and apply analysis on it to get preconditi
 
 - coinmarket_api.js is code through which we get data of blockchain currencies and transactions.
 - coinmarketapi.xlsx file is inform that will help to visualize the data actually.
-
+- implemented Twitter Api to fetch Data about different currencies. twitterApiCall.js
+- added result of api call for btc. So using this api we will extract data and apply analysis on all currencies.
+- implemented Facebook API to fetch data from it. But they restricted to provide access to query on basis of keyword. still we are attaching effort to fetch data.
