@@ -36,4 +36,4 @@ we downloaded data from coinmarketapi and apply analysis on it to get preconditi
 - coinmarketapi.xlsx file is inform that will help to visualize the data actually.
 - implemented Twitter Api to fetch Data about different currencies. twitterApiCall.js
 - added result of api call for btc. So using this api we will extract data and apply analysis on all currencies.
-- implemented Facebook API to fetch data from it. But they restricted to provide access to query on basis of keyword. still we are attaching effort to fetch data.
+- implemented Facebook API to fetch data from it. But they restricted to provide access to query on basis of keyword. still we are attaching effort to fetch data. i tried to add code of facebook-node-sdk with this git. But i think it is not allowed to do so. link is https://github.com/node-facebook/facebook-node-sdk
