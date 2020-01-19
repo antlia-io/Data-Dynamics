@@ -27,3 +27,11 @@ Forecasting Transactions:
 Learning to create model. To measure its accuracy we will use data of https://coinmetrics.io/
 (which is ready made tool and provide us visualization of previous historical data).
 - This model will be able to predict future change in prices and blockchain data.
+
+
+# Update 1
+we downloaded data from coinmarketapi and apply analysis on it to get preconditions.
+
+- coinmarket_api.js is code through which we get data of blockchain currencies and transactions.
+- coinmarketapi.xlsx file is inform that will help to visualize the data actually.
+
