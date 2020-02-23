@@ -44,3 +44,8 @@ we downloaded data from coinmarketapi and apply analysis on it to get preconditi
 - Applied analysis on that data (present in file named "data.xls")
   * Location of people tweeting about currencies (for getting interest of people)
   * Followers of people tweeting about currencies (for credability)
+- Scrap Data from coinmarket api. Stored it in database and export it in excel file for analysis (coinmarketdata_analysis.xls). This is analysis on real market data.
+  * Apply Analysis on currency vs market pair (w.r.t to other currencies)
+  * Apply Analysis on currency vs total supply
+  * Apply Analysis on currency vs total supplies
+  * Apply Analysis on currency vs price
