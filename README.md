@@ -39,5 +39,8 @@ we downloaded data from coinmarketapi and apply analysis on it to get preconditi
 - implemented Facebook API to fetch data from it. But they restricted to provide access to query on basis of keyword. still we are attaching effort to fetch data. i tried to add code of facebook-node-sdk with this git. But i think it is not allowed to do so. link is https://github.com/node-facebook/facebook-node-sdk
 
 # Update 2
-- Downloaded data from twitter and social media websites about currencies (present in folder results)
+- Downloaded data from twitter using API and social media websites about currencies (present in folder results)
+- Write python code to extract usefull data from these responses.
 - Applied analysis on that data (present in file named "data.xls")
+  * Location of people tweeting about currencies (for getting interest of people)
+  * Followers of people tweeting about currencies (for credability)
